@@ -1,0 +1,21 @@
+div.searchBox input {
+  width: 80%;
+  text-align: center;
+  margin: 15px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+div.searchBox button {
+  padding: 5px;
+  border-radius: 8px;
+  border: 3px black solid;
+  background-color: black;
+  color: silver;
+  cursor: pointer;
+  margin: 10px;
+}
+div.searchBox button:hover {
+  background-color: silver;
+  color: black;
+}
